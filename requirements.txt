@@ -4,3 +4,4 @@ xgboost
 pandas
 scipy
 pydantic
+joblib
