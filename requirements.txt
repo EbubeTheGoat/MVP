@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+xgboost
+pandas
+scipy
+pydantic
